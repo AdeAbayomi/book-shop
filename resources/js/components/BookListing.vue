@@ -55,14 +55,13 @@ export default {
     },
     methods: {
         editBook(bookId) {
-            // Implement edit book functionality
             this.$router.push({ name: 'EditBook', params: { bookId } });
         },
         deleteBook(bookId) {
             axios.delete(`/api/books/${bookId}`)
                 .then(response => {
                     this.books = this.books.filter(book => book.id !== bookId);
-                    console.log(`Deleted book with ID: ${bookId}`);
+                    alert(`Deleted book with ID: ${bookId}`);
                 })
                 .catch(error => {
                     alert('Error deleting books: ' + error);
