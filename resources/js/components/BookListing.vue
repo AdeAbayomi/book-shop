@@ -61,10 +61,9 @@ export default {
             axios.delete(`/api/books/${bookId}`)
                 .then(response => {
                     this.books = this.books.filter(book => book.id !== bookId);
-                    alert(`Deleted book with ID: ${bookId}`);
                 })
                 .catch(error => {
-                    alert('Error deleting books: ' + error);
+                    //
                 });
         }
     },
@@ -74,7 +73,7 @@ export default {
                 this.books = response.data.data;
             })
             .catch(error => {
-                alert('Error fetching books:' +  error);
+                //
             });
     }
 }

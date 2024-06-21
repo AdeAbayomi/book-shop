@@ -53,17 +53,17 @@ export default {
                     this.book = response.data.data;
                 })
                 .catch(error => {
-                    console.error('Error fetching book:', error);
+                    //
                 });
         },
         submit() {
             axios.put(`/api/books/${this.bookId}`, this.book)
                 .then(response => {
-                    alert('Book updated:', response.data);
+                    //
                     this.$router.push('/');
                 })
                 .catch(error => {
-                    alert('Error updating book:' + error);
+                    //
                 });
         }
     },

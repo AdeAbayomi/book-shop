@@ -346,3 +346,215 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
+[2024-06-21 01:07:36] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at /Users/macbook/Desktop/Searchlight/full-stack-tech-test/app/Models/User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2024-06-21 01:08:36] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at /Users/macbook/Desktop/Searchlight/full-stack-tech-test/app/Models/User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2024-06-21 01:09:36] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at /Users/macbook/Desktop/Searchlight/full-stack-tech-test/app/Models/User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2024-06-21 01:10:36] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at /Users/macbook/Desktop/Searchlight/full-stack-tech-test/app/Models/User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2024-06-21 01:11:36] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at /Users/macbook/Desktop/Searchlight/full-stack-tech-test/app/Models/User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2024-06-21 01:12:36] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at /Users/macbook/Desktop/Searchlight/full-stack-tech-test/app/Models/User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2024-06-21 01:13:36] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at /Users/macbook/Desktop/Searchlight/full-stack-tech-test/app/Models/User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2024-06-21 01:14:36] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at /Users/macbook/Desktop/Searchlight/full-stack-tech-test/app/Models/User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2024-06-21 01:15:36] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at /Users/macbook/Desktop/Searchlight/full-stack-tech-test/app/Models/User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2024-06-21 01:16:36] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at /Users/macbook/Desktop/Searchlight/full-stack-tech-test/app/Models/User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2024-06-21 01:17:36] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at /Users/macbook/Desktop/Searchlight/full-stack-tech-test/app/Models/User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2024-06-21 01:18:36] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at /Users/macbook/Desktop/Searchlight/full-stack-tech-test/app/Models/User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2024-06-21 01:19:36] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at /Users/macbook/Desktop/Searchlight/full-stack-tech-test/app/Models/User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2024-06-21 01:20:36] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at /Users/macbook/Desktop/Searchlight/full-stack-tech-test/app/Models/User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2024-06-21 01:21:36] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at /Users/macbook/Desktop/Searchlight/full-stack-tech-test/app/Models/User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2024-06-21 01:22:36] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at /Users/macbook/Desktop/Searchlight/full-stack-tech-test/app/Models/User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2024-06-21 01:23:36] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at /Users/macbook/Desktop/Searchlight/full-stack-tech-test/app/Models/User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2024-06-21 01:24:27] local.ERROR: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo for mysql failed: nodename nor servname provided, or not known (Connection: mysql, SQL: truncate table `books`) {"exception":"[object] (Illuminate\\Database\\QueryException(code: 2002): SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo for mysql failed: nodename nor servname provided, or not known (Connection: mysql, SQL: truncate table `books`) at /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Connection.php:793)
+[stacktrace]
+#0 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Connection.php(932): Illuminate\\Database\\Connection->runQueryCallback('truncate table ...', Array, Object(Closure))
+#1 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Connection.php(911): Illuminate\\Database\\Connection->tryAgainIfCausedByLostConnection(Object(Illuminate\\Database\\QueryException), 'truncate table ...', Array, Object(Closure))
+#2 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Connection.php(755): Illuminate\\Database\\Connection->handleQueryException(Object(Illuminate\\Database\\QueryException), 'truncate table ...', Array, Object(Closure))
+#3 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Connection.php(567): Illuminate\\Database\\Connection->run('truncate table ...', Array, Object(Closure))
+#4 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php(3586): Illuminate\\Database\\Connection->statement('truncate table ...', Array)
+#5 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Support/Traits/ForwardsCalls.php(23): Illuminate\\Database\\Query\\Builder->truncate()
+#6 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php(1907): Illuminate\\Database\\Eloquent\\Builder->forwardCallTo(Object(Illuminate\\Database\\Query\\Builder), 'truncate', Array)
+#7 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Support/Traits/ForwardsCalls.php(23): Illuminate\\Database\\Eloquent\\Builder->__call('truncate', Array)
+#8 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php(2335): Illuminate\\Database\\Eloquent\\Model->forwardCallTo(Object(Illuminate\\Database\\Eloquent\\Builder), 'truncate', Array)
+#9 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php(2347): Illuminate\\Database\\Eloquent\\Model->__call('truncate', Array)
+#10 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/database/seeders/BookSeeder.php(16): Illuminate\\Database\\Eloquent\\Model::__callStatic('truncate', Array)
+#11 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): Database\\Seeders\\BookSeeder->run()
+#12 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Container/Util.php(41): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#13 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#14 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#15 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Container/Container.php(662): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#16 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Seeder.php(184): Illuminate\\Container\\Container->call(Array, Array)
+#17 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Seeder.php(193): Illuminate\\Database\\Seeder->Illuminate\\Database\\{closure}()
+#18 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Console/Seeds/SeedCommand.php(70): Illuminate\\Database\\Seeder->__invoke()
+#19 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/GuardsAttributes.php(155): Illuminate\\Database\\Console\\Seeds\\SeedCommand->Illuminate\\Database\\Console\\Seeds\\{closure}()
+#20 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Console/Seeds/SeedCommand.php(69): Illuminate\\Database\\Eloquent\\Model::unguarded(Object(Closure))
+#21 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): Illuminate\\Database\\Console\\Seeds\\SeedCommand->handle()
+#22 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Container/Util.php(41): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#23 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#24 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#25 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Container/Container.php(662): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#26 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Console/Command.php(194): Illuminate\\Container\\Container->call(Array)
+#27 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/symfony/console/Command/Command.php(312): Illuminate\\Console\\Command->execute(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Illuminate\\Console\\OutputStyle))
+#28 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Console/Command.php(163): Symfony\\Component\\Console\\Command\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Illuminate\\Console\\OutputStyle))
+#29 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/symfony/console/Application.php(1040): Illuminate\\Console\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#30 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/symfony/console/Application.php(314): Symfony\\Component\\Console\\Application->doRunCommand(Object(Illuminate\\Database\\Console\\Seeds\\SeedCommand), Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#31 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/symfony/console/Application.php(168): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#32 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(200): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#33 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#34 {main}
+
+[previous exception] [object] (PDOException(code: 2002): SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo for mysql failed: nodename nor servname provided, or not known at /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:65)
+[stacktrace]
+#0 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(65): PDO->__construct('mysql:host=mysq...', 'sail', Object(SensitiveParameterValue), Array)
+#1 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(83): Illuminate\\Database\\Connectors\\Connector->createPdoConnection('mysql:host=mysq...', 'sail', 'password', Array)
+#2 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(48): Illuminate\\Database\\Connectors\\Connector->tryAgainIfCausedByLostConnection(Object(PDOException), 'mysql:host=mysq...', 'sail', 'password', Array)
+#3 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\\Database\\Connectors\\Connector->createConnection('mysql:host=mysq...', Array, Array)
+#4 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(184): Illuminate\\Database\\Connectors\\MySqlConnector->connect(Array)
+#5 [internal function]: Illuminate\\Database\\Connectors\\ConnectionFactory->Illuminate\\Database\\Connectors\\{closure}()
+#6 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Connection.php(1210): call_user_func(Object(Closure))
+#7 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Connection.php(572): Illuminate\\Database\\Connection->getPdo()
+#8 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Connection.php(786): Illuminate\\Database\\Connection->Illuminate\\Database\\{closure}('truncate table ...', Array)
+#9 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Connection.php(932): Illuminate\\Database\\Connection->runQueryCallback('truncate table ...', Array, Object(Closure))
+#10 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Connection.php(911): Illuminate\\Database\\Connection->tryAgainIfCausedByLostConnection(Object(Illuminate\\Database\\QueryException), 'truncate table ...', Array, Object(Closure))
+#11 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Connection.php(755): Illuminate\\Database\\Connection->handleQueryException(Object(Illuminate\\Database\\QueryException), 'truncate table ...', Array, Object(Closure))
+#12 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Connection.php(567): Illuminate\\Database\\Connection->run('truncate table ...', Array, Object(Closure))
+#13 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php(3586): Illuminate\\Database\\Connection->statement('truncate table ...', Array)
+#14 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Support/Traits/ForwardsCalls.php(23): Illuminate\\Database\\Query\\Builder->truncate()
+#15 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php(1907): Illuminate\\Database\\Eloquent\\Builder->forwardCallTo(Object(Illuminate\\Database\\Query\\Builder), 'truncate', Array)
+#16 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Support/Traits/ForwardsCalls.php(23): Illuminate\\Database\\Eloquent\\Builder->__call('truncate', Array)
+#17 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php(2335): Illuminate\\Database\\Eloquent\\Model->forwardCallTo(Object(Illuminate\\Database\\Eloquent\\Builder), 'truncate', Array)
+#18 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php(2347): Illuminate\\Database\\Eloquent\\Model->__call('truncate', Array)
+#19 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/database/seeders/BookSeeder.php(16): Illuminate\\Database\\Eloquent\\Model::__callStatic('truncate', Array)
+#20 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): Database\\Seeders\\BookSeeder->run()
+#21 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Container/Util.php(41): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#22 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#23 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#24 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Container/Container.php(662): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#25 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Seeder.php(184): Illuminate\\Container\\Container->call(Array, Array)
+#26 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Seeder.php(193): Illuminate\\Database\\Seeder->Illuminate\\Database\\{closure}()
+#27 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Console/Seeds/SeedCommand.php(70): Illuminate\\Database\\Seeder->__invoke()
+#28 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/GuardsAttributes.php(155): Illuminate\\Database\\Console\\Seeds\\SeedCommand->Illuminate\\Database\\Console\\Seeds\\{closure}()
+#29 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Console/Seeds/SeedCommand.php(69): Illuminate\\Database\\Eloquent\\Model::unguarded(Object(Closure))
+#30 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): Illuminate\\Database\\Console\\Seeds\\SeedCommand->handle()
+#31 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Container/Util.php(41): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#32 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#33 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#34 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Container/Container.php(662): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#35 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Console/Command.php(194): Illuminate\\Container\\Container->call(Array)
+#36 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/symfony/console/Command/Command.php(312): Illuminate\\Console\\Command->execute(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Illuminate\\Console\\OutputStyle))
+#37 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Console/Command.php(163): Symfony\\Component\\Console\\Command\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Illuminate\\Console\\OutputStyle))
+#38 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/symfony/console/Application.php(1040): Illuminate\\Console\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#39 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/symfony/console/Application.php(314): Symfony\\Component\\Console\\Application->doRunCommand(Object(Illuminate\\Database\\Console\\Seeds\\SeedCommand), Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#40 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/symfony/console/Application.php(168): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#41 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(200): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#42 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#43 {main}
+
+[previous exception] [object] (PDOException(code: 0): PDO::__construct(): php_network_getaddresses: getaddrinfo for mysql failed: nodename nor servname provided, or not known at /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:65)
+[stacktrace]
+#0 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(65): PDO->__construct('mysql:host=mysq...', 'sail', Object(SensitiveParameterValue), Array)
+#1 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(83): Illuminate\\Database\\Connectors\\Connector->createPdoConnection('mysql:host=mysq...', 'sail', 'password', Array)
+#2 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(48): Illuminate\\Database\\Connectors\\Connector->tryAgainIfCausedByLostConnection(Object(PDOException), 'mysql:host=mysq...', 'sail', 'password', Array)
+#3 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\\Database\\Connectors\\Connector->createConnection('mysql:host=mysq...', Array, Array)
+#4 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(184): Illuminate\\Database\\Connectors\\MySqlConnector->connect(Array)
+#5 [internal function]: Illuminate\\Database\\Connectors\\ConnectionFactory->Illuminate\\Database\\Connectors\\{closure}()
+#6 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Connection.php(1210): call_user_func(Object(Closure))
+#7 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Connection.php(572): Illuminate\\Database\\Connection->getPdo()
+#8 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Connection.php(786): Illuminate\\Database\\Connection->Illuminate\\Database\\{closure}('truncate table ...', Array)
+#9 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Connection.php(932): Illuminate\\Database\\Connection->runQueryCallback('truncate table ...', Array, Object(Closure))
+#10 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Connection.php(911): Illuminate\\Database\\Connection->tryAgainIfCausedByLostConnection(Object(Illuminate\\Database\\QueryException), 'truncate table ...', Array, Object(Closure))
+#11 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Connection.php(755): Illuminate\\Database\\Connection->handleQueryException(Object(Illuminate\\Database\\QueryException), 'truncate table ...', Array, Object(Closure))
+#12 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Connection.php(567): Illuminate\\Database\\Connection->run('truncate table ...', Array, Object(Closure))
+#13 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php(3586): Illuminate\\Database\\Connection->statement('truncate table ...', Array)
+#14 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Support/Traits/ForwardsCalls.php(23): Illuminate\\Database\\Query\\Builder->truncate()
+#15 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php(1907): Illuminate\\Database\\Eloquent\\Builder->forwardCallTo(Object(Illuminate\\Database\\Query\\Builder), 'truncate', Array)
+#16 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Support/Traits/ForwardsCalls.php(23): Illuminate\\Database\\Eloquent\\Builder->__call('truncate', Array)
+#17 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php(2335): Illuminate\\Database\\Eloquent\\Model->forwardCallTo(Object(Illuminate\\Database\\Eloquent\\Builder), 'truncate', Array)
+#18 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php(2347): Illuminate\\Database\\Eloquent\\Model->__call('truncate', Array)
+#19 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/database/seeders/BookSeeder.php(16): Illuminate\\Database\\Eloquent\\Model::__callStatic('truncate', Array)
+#20 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): Database\\Seeders\\BookSeeder->run()
+#21 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Container/Util.php(41): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#22 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#23 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#24 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Container/Container.php(662): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#25 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Seeder.php(184): Illuminate\\Container\\Container->call(Array, Array)
+#26 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Seeder.php(193): Illuminate\\Database\\Seeder->Illuminate\\Database\\{closure}()
+#27 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Console/Seeds/SeedCommand.php(70): Illuminate\\Database\\Seeder->__invoke()
+#28 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/GuardsAttributes.php(155): Illuminate\\Database\\Console\\Seeds\\SeedCommand->Illuminate\\Database\\Console\\Seeds\\{closure}()
+#29 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Database/Console/Seeds/SeedCommand.php(69): Illuminate\\Database\\Eloquent\\Model::unguarded(Object(Closure))
+#30 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): Illuminate\\Database\\Console\\Seeds\\SeedCommand->handle()
+#31 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Container/Util.php(41): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#32 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#33 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#34 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Container/Container.php(662): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#35 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Console/Command.php(194): Illuminate\\Container\\Container->call(Array)
+#36 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/symfony/console/Command/Command.php(312): Illuminate\\Console\\Command->execute(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Illuminate\\Console\\OutputStyle))
+#37 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Console/Command.php(163): Symfony\\Component\\Console\\Command\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Illuminate\\Console\\OutputStyle))
+#38 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/symfony/console/Application.php(1040): Illuminate\\Console\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#39 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/symfony/console/Application.php(314): Symfony\\Component\\Console\\Application->doRunCommand(Object(Illuminate\\Database\\Console\\Seeds\\SeedCommand), Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#40 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/symfony/console/Application.php(168): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#41 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(200): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#42 /Users/macbook/Desktop/Searchlight/full-stack-tech-test/artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#43 {main}
+"} 
+[2024-06-21 01:24:36] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at /Users/macbook/Desktop/Searchlight/full-stack-tech-test/app/Models/User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2024-06-21 01:25:36] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at /Users/macbook/Desktop/Searchlight/full-stack-tech-test/app/Models/User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2024-06-21 01:26:36] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at /Users/macbook/Desktop/Searchlight/full-stack-tech-test/app/Models/User.php:11)
+[stacktrace]
+#0 {main}
+"} 
