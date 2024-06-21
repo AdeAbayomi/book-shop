@@ -13,4 +13,9 @@ class Book extends Model
     protected $guarded = [];
 
     protected $dates = ['deleted_at'];
+
+    public function genres()
+    {
+        return $this->belongsToMany(Genre::class);
+    }
 }
