@@ -226,3 +226,39 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
+[2024-06-21 00:37:36] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at /Users/macbook/Desktop/Searchlight/full-stack-tech-test/app/Models/User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2024-06-21 00:38:36] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at /Users/macbook/Desktop/Searchlight/full-stack-tech-test/app/Models/User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2024-06-21 00:39:36] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at /Users/macbook/Desktop/Searchlight/full-stack-tech-test/app/Models/User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2024-06-21 00:40:36] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at /Users/macbook/Desktop/Searchlight/full-stack-tech-test/app/Models/User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2024-06-21 00:41:36] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at /Users/macbook/Desktop/Searchlight/full-stack-tech-test/app/Models/User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2024-06-21 00:42:36] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at /Users/macbook/Desktop/Searchlight/full-stack-tech-test/app/Models/User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2024-06-21 00:43:36] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at /Users/macbook/Desktop/Searchlight/full-stack-tech-test/app/Models/User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2024-06-21 00:44:36] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at /Users/macbook/Desktop/Searchlight/full-stack-tech-test/app/Models/User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2024-06-21 00:45:37] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at /Users/macbook/Desktop/Searchlight/full-stack-tech-test/app/Models/User.php:11)
+[stacktrace]
+#0 {main}
+"} 
