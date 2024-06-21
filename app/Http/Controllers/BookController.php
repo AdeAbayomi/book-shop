@@ -11,6 +11,7 @@ use App\Http\Services\Book\Index;
 use App\Http\Services\Book\Store;
 use App\Http\Services\Book\Update;
 use App\Models\Book;
+use App\Models\Genre;
 
 class BookController extends Controller
 {
@@ -32,21 +33,31 @@ class BookController extends Controller
 
     public function store(StoreRequest $request, Store $store)
     {
-        $book = $store($request->validated());
+        $validatedData = $request->validated();
+        $genres = $validatedData['genres'] ?? [];
+        unset($validatedData['genres']);
 
-         return response()->json([
+        $book = $store($validatedData);
+        $book->genres()->sync($genres);
+
+        return response()->json([
             'message' => 'Successfully stored the book.',
-            'data' => $book
+            'data' => $book->load('genres')
         ]);
     }
 
     public function update(UpdateRequest $request, Update $update, Book $book)
     {
-        $updatedBook = $update($request->validated(), $book);
+        $validatedData = $request->validated();
+        $genres = $validatedData['genres'] ?? [];
+        unset($validatedData['genres']);
+
+        $updatedBook = $update($validatedData, $book);
+        $updatedBook->genres()->sync($genres);
 
         return response()->json([
             'message' => 'Successfully updated the book.',
-            'data' => $updatedBook
+            'data' => $updatedBook->load('genres')
         ]);
     }
 
