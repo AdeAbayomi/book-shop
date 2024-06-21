@@ -22,6 +22,14 @@ class BookController extends Controller
         ]);
     }
 
+    public function show(Book $book)
+    {
+        return response()->json([
+            'message' => 'Successfully fetched the book.',
+            'data' => $book
+        ]);
+    }
+
     public function store(StoreRequest $request, Store $store)
     {
         $book = $store($request->validated());
