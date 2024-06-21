@@ -20,3 +20,5 @@ Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
 
 
 Route::apiResource('/books', 'BookController');
+Route::apiResource('/genres', 'GenreController')->only(['index', 'store']);
+
